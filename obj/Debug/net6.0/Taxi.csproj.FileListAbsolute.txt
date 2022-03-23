@@ -1,0 +1,15 @@
+D:\Amikom\Semester 2\Pemrograman\praktikum\Taxi\Taxi\obj\Debug\net6.0\Taxi.csproj.AssemblyReference.cache
+D:\Amikom\Semester 2\Pemrograman\praktikum\Taxi\Taxi\obj\Debug\net6.0\Taxi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Amikom\Semester 2\Pemrograman\praktikum\Taxi\Taxi\obj\Debug\net6.0\Taxi.AssemblyInfoInputs.cache
+D:\Amikom\Semester 2\Pemrograman\praktikum\Taxi\Taxi\obj\Debug\net6.0\Taxi.AssemblyInfo.cs
+D:\Amikom\Semester 2\Pemrograman\praktikum\Taxi\Taxi\obj\Debug\net6.0\Taxi.csproj.CoreCompileInputs.cache
+D:\Amikom\Semester 2\Pemrograman\praktikum\Taxi\Taxi\bin\Debug\net6.0\Taxi.exe
+D:\Amikom\Semester 2\Pemrograman\praktikum\Taxi\Taxi\bin\Debug\net6.0\Taxi.deps.json
+D:\Amikom\Semester 2\Pemrograman\praktikum\Taxi\Taxi\bin\Debug\net6.0\Taxi.runtimeconfig.json
+D:\Amikom\Semester 2\Pemrograman\praktikum\Taxi\Taxi\bin\Debug\net6.0\Taxi.dll
+D:\Amikom\Semester 2\Pemrograman\praktikum\Taxi\Taxi\bin\Debug\net6.0\Taxi.pdb
+D:\Amikom\Semester 2\Pemrograman\praktikum\Taxi\Taxi\obj\Debug\net6.0\Taxi.dll
+D:\Amikom\Semester 2\Pemrograman\praktikum\Taxi\Taxi\obj\Debug\net6.0\refint\Taxi.dll
+D:\Amikom\Semester 2\Pemrograman\praktikum\Taxi\Taxi\obj\Debug\net6.0\Taxi.pdb
+D:\Amikom\Semester 2\Pemrograman\praktikum\Taxi\Taxi\obj\Debug\net6.0\Taxi.genruntimeconfig.cache
+D:\Amikom\Semester 2\Pemrograman\praktikum\Taxi\Taxi\obj\Debug\net6.0\ref\Taxi.dll
